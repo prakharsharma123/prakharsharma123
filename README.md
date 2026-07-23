@@ -4,10 +4,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=EE5D36&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+(MERN);Building+Fast+%26+Functional+Web+Apps;BCA+Student+%40+MUIT+Lucknow;Always+Learning+Something+New)](https://git.io/typing-svg)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-EE5D36?style=for-the-badge&logo=vercel&logoColor=white)](https://prakharsharma123.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-EE5D36?style=for-the-badge&logo=vercel&logoColor=white)](https://prakhar-dev-iota.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prakhar-sharma-06april)
 [![Gmail](https://img.shields.io/badge/Email-EE5D36?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prakharsharmawork1@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-1E293B?style=for-the-badge&logo=readdotcv&logoColor=white)](https://prakharsharma123.github.io/resume.html)
+[![Resume](https://img.shields.io/badge/Resume-1E293B?style=for-the-badge&logo=readdotcv&logoColor=white)](https://prakhar-dev-iota.vercel.app/resume.html)
 
 </div>
 
